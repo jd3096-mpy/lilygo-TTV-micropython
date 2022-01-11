@@ -1,7 +1,9 @@
 # lilygo-TTV-透明小电视
-![](./../image/1.jpg)
+![触摸屏幕背部继续测试程序](./../image/readme.jpg)
+![用AIDA64通过WIFI在TTV上显示硬件信息、游戏帧数](./../image/show.jpg)
 
 ### 使用说明：
 
-1. libs目录下为使用的库文件
-2. example目录下所有文件拷贝到根目录为测试程序，程序触摸屏幕后方的背板继续下一项
+IR.py----红外库
+pcf8563.py----RTC库
+ssd1309.py----OLED库
