@@ -1,3 +1,4 @@
+#by jd3096  VX:jd3096 QQ:1091329318
 import network,time
 from machine import I2C,Pin,SPI,ADC
 from ssd1309 import Display
